@@ -12,7 +12,9 @@ Write a program (C/Python) to implement a simple desk calculator using operator 
 Output of the program should contain:
 1. Precedence table (showing the precedence of only those operators (not all), which are
 present in given input string).
+
 2.Output of the calculator (on providing valid mathematical expression as an input to the
 program. E.g. if input is 2+2 to the program then output of the program should be 4.
+
 3. Error, if the input string is not valid.
 
